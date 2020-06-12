@@ -1,0 +1,7 @@
+{
+    "name": "OBS Sound Pad",
+    "description": "A sound pad to bring the sound fx on the live stream",
+    "repository": "https://github.com/Schrodinger-Hat/obs-sound-pad",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static", "obs", "socketio"]
+  }

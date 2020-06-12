@@ -1,0 +1,25 @@
+{
+  "name": "obs-sound-pad",
+  "version": "1.0.0",
+  "description": "[Freesound](https://github.com/Schrodinger-Hat/obs-sound-pad.git)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schrodinger-Hat/obs-sound-pad.git"
+  },
+  "author": "thejoin95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schrodinger-Hat/obs-sound-pad/issues"
+  },
+  "homepage": "https://github.com/Schrodinger-Hat/obs-sound-pad#readme"
+}

@@ -2,7 +2,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Schrodinger-Hat/obs-sound-pad/tree/master)
 
-![pad](resources/pad.png)
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/Schrodinger-Hat/soundpad/master/resources/pad.png" />
+</p>
 
 ## Why
 

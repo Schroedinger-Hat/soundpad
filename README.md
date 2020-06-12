@@ -2,6 +2,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Schrodinger-Hat/obs-sound-pad/tree/master)
 
+![pad](resources/pad.png)
+
 ## Why
 
 We run a [live and podcast](https://www.youtube.com/channel/UC1QLLgrGrPmlaFhS0orykCA) setup on OBS and we wanted to make a tv/radio show with some sound fx.
